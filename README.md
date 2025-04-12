@@ -1,1 +1,1 @@
-# odin_recipes
+The current project is a recipe book. The skills used are git and github along with html and a little bit of bash.
